@@ -31,6 +31,8 @@ This project utilizes a transnational dataset containing all the transactions oc
 - **CustomerID**: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
 - **Country**: Country name. Nominal, the name of the country where each customer resides.
 
-Please note that due to its size, the dataset is not included in the repository. You can obtain the dataset from this link:
-https://github.com/irenenguyen8/Ecommerce-retail/blob/main/ecommerce%20retail.xlsx)https://github.com/irenenguyen8/Ecommerce-retail/blob/main/ecommerce%20retail.xlsx
+Please note that due to its size, the dataset is not included in the repository. You can obtain the dataset from the dataset dicrectory.
+
+## Results
+
 
