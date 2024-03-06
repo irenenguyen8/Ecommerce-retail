@@ -41,7 +41,7 @@ Results of the analysis, including visualizations and recommendations, can be fo
 
 The following dependencies are required to run this project:
 
-- Python 3.x
+- Python
 - Pandas
 - NumPy
 - Matplotlib
