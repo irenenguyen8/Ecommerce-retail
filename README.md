@@ -35,4 +35,5 @@ Please note that due to its size, the dataset is not included in the repository.
 
 ## Results
 
+Results of the analysis, including visualizations and recommendations, can be found in the results/ directory.
 
