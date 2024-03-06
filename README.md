@@ -37,3 +37,13 @@ Please note that due to its size, the dataset is not included in the repository.
 
 Results of the analysis, including visualizations and recommendations, can be found in the results/ directory.
 
+# Dependencies
+
+The following dependencies are required to run this project:
+
+- Python 3.x
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook (optional, for running the analysis notebooks)
